@@ -1,0 +1,28 @@
+body {
+  direction:rtl;
+  font-size: 1.5em;
+  font-family: 'Samim', sans-serif;
+  background: #5d1b87; /* Old browsers */
+  background: linear-gradient(to top left, #7f225f 23%, #6666ff 99%);
+}
+
+body, html {
+  height: 100%;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 32rem;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3.6rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
